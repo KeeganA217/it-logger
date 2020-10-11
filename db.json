@@ -1,5 +1,27 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "id": 1,
+      "message": "test log 1",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2020-10-11T19:50:27.610Z"
+    },
+    {
+      "message": "test log 2",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-10-11T19:15:38.224Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "test log 3",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2020-10-11T19:50:30.935Z"
+    }
+  ],
   "techs": [
     {
       "id": 1,
